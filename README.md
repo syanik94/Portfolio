@@ -1,7 +1,7 @@
 ## Upful
 [App Store Link](https://apps.apple.com/us/app/upful/id1447909027)
 
-Upful is a stock screening and analytics tool available for iOS. Upful allows users to search for stocks by their financial metrics. Users can view historic financial metrics and save stocks they find interesting. I originally created this app to automate my process of researching publicly traded companies. 
+Upful is a stock screening and analytics tool available for iOS. Upful allows users to search for stocks by their financial metrics. Users can view historic financial metrics and save stocks they find interesting. I originally created this app to automate my process of researching publicly traded companies. All UI was done programmatically. App uses MVC architecture.
 
 <img src="/screenshots/TGTAnalysis.png"  width="260" height="532"> &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://imgflip.com/gif/3j1qe8"><img src="https://i.imgflip.com/3j1qe8.gif" title=""/></a>&nbsp; &nbsp; &nbsp; &nbsp; <img src="/screenshots/ExploreFeed.png"  width="260" height="532">
 
@@ -19,5 +19,5 @@ Upful is a stock screening and analytics tool available for iOS. Upful allows us
 
 This is a sorting algorithm visualizer created in Swift. This app allows users to visually compare the sorting the methods of common sorting algorithms. Users are able to adjust the sorting speed and play/pause the animation. Currently illustrates Bubble Sort and Selection Sort.
 
-<a href="https://imgflip.com/gif/3j0chh"><img src="https://i.imgflip.com/3j0chh.gif" title=""/></a>&nbsp; &nbsp; &nbsp; &nbsp; <a href="https://imgflip.com/gif/3j0kdq"><img src="https://i.imgflip.com/3j0kdq.gif" title=""/></a>
+<a href="https://imgflip.com/gif/3j21yu"><img src="https://i.imgflip.com/3j21yu.gif" title=""/></a>&nbsp; &nbsp; &nbsp; &nbsp; <a href="https://imgflip.com/gif/3j0kdq"><img src="https://i.imgflip.com/3j0kdq.gif" title=""/></a>
 
