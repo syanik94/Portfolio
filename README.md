@@ -13,6 +13,7 @@ I aim to release an update every month. To accommodate for these regular updates
 - Core Data
 - Database (Firestore)
 - In-App Purchases
+- Lottie
 - Push Notifications (Local)
 - RESTful API
 
