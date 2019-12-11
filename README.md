@@ -11,7 +11,7 @@ I aim to release an update every month. To accommodate for these regular updates
 - Analytics (Mixpanel, Firebase)
 - Charts
 - Core Data
-- Firebase (BaaS)
+- Database (Firestore)
 - Push Notifications (Local)
 - In-App Purchases
 - RESTful API
