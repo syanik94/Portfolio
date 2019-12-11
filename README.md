@@ -12,8 +12,8 @@ I aim to release an update every month. To accommodate for these regular updates
 - Charts
 - Core Data
 - Database (Firestore)
-- Push Notifications (Local)
 - In-App Purchases
+- Push Notifications (Local)
 - RESTful API
 
 ## Sorting Algorithm Visualizer
