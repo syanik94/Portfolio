@@ -3,7 +3,7 @@
 
 Upful is a stock screening and analytics tool available for iOS. Upful allows users to search for stocks by their financial metrics. Users can view historic financial metrics and save stocks they find interesting. I originally created this app to automate my process of researching publicly traded companies. All UI was done programmatically. App uses MVC architecture.
 
-<img src="/screenshots/Overview.png"  width="280.8" height="621.3"> <img src="/screenshots/Analysis.png"  width="280.8" height="621.3"> <img src="/screenshots/Home.png"  width="280.8" height="621.3"> 
+<img src="/screenshots/Overview.png"  width="280.8" height="560.2"> <img src="/screenshots/Analysis.png"  width="280.8" height="560.2"> <img src="/screenshots/Home.png"  width="280.8" height="560.2"> 
 
 **Technologies Used**
 - Analytics (Mixpanel, Firebase)
