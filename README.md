@@ -9,7 +9,7 @@ Upful is a stock screening and analytics tool available for iOS. Upful allows us
 - Analytics (Mixpanel, Firebase)
 - Charts
 - Core Data
-- NoSql Database (Firestore)
+- NoSQL Database (Firestore)
 - In-App Purchases
 - Push Notifications (Local)
 - RESTful API
